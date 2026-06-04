@@ -13,7 +13,9 @@
       "package": "com.fluye.app"
     },
     "web": {
-      "bundler": "metro"
+      "bundler": "metro",
+      "output": "single",
+      "favicon": null
     },
     "plugins": []
   }
